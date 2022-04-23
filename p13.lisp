@@ -17,4 +17,4 @@
             (cons (car lst) s))))))) ;; add new element
 
 ;; test
-(encode '(a a a a b c c a a d e e e e))
+(encode-modified '(a a a a b c c a a d e e e e))
